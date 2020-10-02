@@ -1,17 +1,21 @@
 .content{
     margin-top: 10px;
     margin-bottom: 10px;
-    background-color: lightgrey;
+    background-color: darkgreen;
     padding: 20px;
     width: 100%;
+    color: white;
 }
 
 #display{
     width: 100%
+    
 }
 
 #slider{
     width: 100%;
+    fill: white;
+    
 }
 #length{
     display: inline-block
@@ -20,5 +24,14 @@
 
 .previous_passwords{
     margin-bottom: 20px;
+}
+
+.navbar-navbar-dark-bg-dark{
+    background-color: darkred;
+    
+}
+
+.navbar-brand{
+    color: white;
 }
 
